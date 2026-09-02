@@ -31,7 +31,7 @@ print("Path to dataset files:", path)
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/r31Ha/Amazon-Case-Study
 cd <repo-name>
 pip install pandas numpy matplotlib scikit-learn
 ```
